@@ -1,2 +1,1 @@
-hello 
-sfrg
+System.out.println("Hello");
